@@ -1,0 +1,9 @@
+account_id,account_age_days,followers,following,posts,prediction,fake_account_probability,risk_level
+ACC001,3,4,600,120,1,84.0,HIGH
+ACC002,15,20,800,200,1,97.0,HIGH
+ACC003,45,80,100,50,1,68.0,MEDIUM
+ACC004,400,900,500,40,0,0.0,LOW
+ACC005,700,1500,700,70,0,2.0,LOW
+ACC006,8,6,900,180,1,100.0,HIGH
+ACC007,250,700,400,30,0,0.0,LOW
+ACC008,20,15,1000,250,1,100.0,HIGH
